@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html>
     <style>
-        body { 
-        background-image: url("https://images.pexels.com/photos/616401/pexels-photo-616401.jpeg"); 
-        background-repeat:no-repeat; 
-         background-size:cover;
-        }
         .center {
         line-height: 200px;
         height: 200px;
         border: 3px solid no color;
         text-align: center;
+        }
+        body { 
+        background-image: url("https://images.pexels.com/photos/616401/pexels-photo-616401.jpeg"); 
+        background-repeat:no-repeat; 
+         background-size:cover;
         }
         .button {
         background-color: white;
