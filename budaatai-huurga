@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        body { 
+        background-image: url("https://correctmongolia.com/wp-content/uploads/2023/03/Budaatai-huurga-recipe.jpg.webp"); 
+        background-repeat:no-repeat; 
+         background-size:cover;
+        }
+        h1{
+            font-size:20px;
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            backdrop-filter: blur(10px);
+        }
+        p{
+            font-size:20px;
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            backdrop-filter: blur(5px);
+        }
+    </style>
+    <head>
+        <title>budaatai huurga</title>
+    </head>
+    <body>
+        <h1 style="background-color:whitesmoke;">Орц</h1>
+        <p style="background-color:white;">
+        Хонины болон үхрийн гол мах -500 гр<br>
+        Сонгино -1 ш<br>
+        Ногоон чинжүү - 300 гр<br>
+        Улаан лооль - 150 гр<br>
+        Ургамлын тос - 6 хоолны халбага<br>
+        Улаан перец - 1 цайны халбага<br>
+        Цагаан будаа - 250 гр<br>
+        Давс
+
+            
+        <h1 style="background-color:white;">Будаатай хуурга хийх жор</h1>
+        <p style="background-color:white;">
+            Махыг   дөрвөлжин  хэлбэртэй хэрчинэ.<br>
+            Сонгино,  ногоон  чинжүү болон улаан   лоолийг    цэвэрлэж  жижиглэн  хэрчинэ.<br>
+            Сонгиныг   шаргал  өнгөтэй  болтол  шараад  дээр  нь  махаа  хийж  хуурна.<br>
+            Түүн  дээр   улаан перец  мөн   давсаа  хийж  20  минут   жигнэнэ.<br>
+            Дараа нь ногоон  чинжүү  болон  улаан лоолийг   хийж дахин 20 минут хуурна.<br>
+            Хайруулын   тавганд   2 хоолны  халбага  ургамлын  тосыг    хийж  халаагаад  цэвэрлэж  бэлтгэсэн    будааг хийж  2-3  минут   хуурна.<br>
+            Дараа нь   будааг  усанд   зөөлөн болтол   чанаж, бэлэн  болмогц   нь   махаа   холино.
+
+</p>
+    </body>
+</html>
