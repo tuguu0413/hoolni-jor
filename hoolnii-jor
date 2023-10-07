@@ -17,15 +17,25 @@
     <head>
         <title>Hoolnii jor</title>
     </head>
-    <h1 style="background-color:white;"style="color:black;">
+    <h1 style="background-color:white;" style="color:black;">
         Манай хоолны цэс
     </h1>
-    <p>
-        Гуляш <br>
-        Цуйван <br>
-        Будаатай хуурга <br>
-        Хуйцай <br>
-        Нарийн махан хуурга <br>
-        Хар шөл <br>
-    </p>
+    
+        <h1 style="font-size:150%;">Хоол</h1><br>
+        <p style="background-color:white;"></p>
+        Гуляш 7900<br>
+        Цуйван 7900<br>
+        Будаатай хуурга 6900<br>
+        Хуйцай 7900<br>
+        Нарийн махан хуурга 7900<br>
+        Хар шөл 6900<br>
+        </p>
+        <h1 style="font-size:150%;">Уух зүйлс</h1><br>
+        <p style="background-color:white;"></p>
+        Ундаа 2000<br>
+        Ус 1500<br>
+        Сүүтэй цай 1000<br>
+        </p>
+
+    
 </html>
