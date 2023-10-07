@@ -11,13 +11,7 @@
         margin-left: auto;
         margin-right: auto;
         }
-        div {
-        width: min-content;
-        margin: 0 auto;
-        background-color: black;
-        color: white;
-        font-size: 25px;
-        }
+        
     </style>
     <head>
         <title>Hoolnii jor</title>
@@ -26,9 +20,9 @@
         <span style="background-color:white">Манай хоолны цэс </span>
     </h1>
         
-        <h1 style="font-size:150%;"> <span style="background-color:white">Хоол</span></h1><br>
-        <table class="center"style="background-color:white">
-        <p>
+        <h1 style="font-size:250%;"> <span style="background-color:white">Хоол</span></h1><br>
+        <table style="font-size:220%;background-color:white"class="center">
+        <p style="font-size:240%;">
         <tr><th>Гуляш</th> <th>7900</th></tr>
         <tr><th>Цуйван</th> <th>7900</th></tr>
         <tr><th>Будаатай хуурга</th> <th>6900</th></tr>
@@ -37,8 +31,8 @@
         <tr><th>Хар шөл</th> <th>6900</th></tr>
         </p>
         </table>
-        <h1 style="font-size:150%;"><span style="background-color:white">Уух зүйлс </span></h1><br>
-        <table class="center" style="background-color:white">
+        <h1 style="font-size:250%;"><span style="background-color:white">Уух зүйлс </span></h1><br>
+        <table style="font-size:220%;background-color:white"class="center">
         <tr><th>Ундаа</th> <th>2000</th></tr>
         <tr><th>Ус</th> <th>1500</th></tr>
         <tr><th>Сүүтэй цай</th> <th>1000</th></tr>
