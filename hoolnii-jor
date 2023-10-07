@@ -8,34 +8,42 @@
          background-size:cover;
         }
         .center {
-        line-height: 200px;
-        height: 200px;
-        border: 3px solid no color;
-        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        }
+        div {
+        width: min-content;
+        margin: 0 auto;
+        background-color: black;
+        color: white;
+        font-size: 25px;
         }
     </style>
     <head>
         <title>Hoolnii jor</title>
     </head>
-    <h1 style="background-color:white;" style="color:black;">
-        Манай хоолны цэс
+    <h1 style="font-size:50px;">
+        <span style="background-color:white">Манай хоолны цэс </span>
     </h1>
-    
-        <h1 style="font-size:150%;">Хоол</h1><br>
-        <p style="background-color:white;"></p>
-        Гуляш 7900<br>
-        Цуйван 7900<br>
-        Будаатай хуурга 6900<br>
-        Хуйцай 7900<br>
-        Нарийн махан хуурга 7900<br>
-        Хар шөл 6900<br>
+        
+        <h1 style="font-size:150%;"> <span style="background-color:white">Хоол</span></h1><br>
+        <table class="center"style="background-color:white">
+        <p>
+        <tr><th>Гуляш</th> <th>7900</th></tr>
+        <tr><th>Цуйван</th> <th>7900</th></tr>
+        <tr><th>Будаатай хуурга</th> <th>6900</th></tr>
+        <tr><th>Хуйцай</th> <th>7900</th></tr>
+        <tr><th>Нарийн махан хуурга</th> <th>7900</th></tr>
+        <tr><th>Хар шөл</th> <th>6900</th></tr>
         </p>
-        <h1 style="font-size:150%;">Уух зүйлс</h1><br>
-        <p style="background-color:white;"></p>
-        Ундаа 2000<br>
-        Ус 1500<br>
-        Сүүтэй цай 1000<br>
+        </table>
+        <h1 style="font-size:150%;"><span style="background-color:white">Уух зүйлс </span></h1><br>
+        <table class="center" style="background-color:white">
+        <tr><th>Ундаа</th> <th>2000</th></tr>
+        <tr><th>Ус</th> <th>1500</th></tr>
+        <tr><th>Сүүтэй цай</th> <th>1000</th></tr>
         </p>
+        </table>
 
     
 </html>
