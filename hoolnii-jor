@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <style>
+        h1 {text-align: center;}
         body { 
         background-image: url("https://images.pexels.com/photos/616401/pexels-photo-616401.jpeg"); 
         background-repeat:no-repeat; 
@@ -16,7 +17,9 @@
     <head>
         <title>Hoolnii jor</title>
     </head>
-    <h1 style="color:black;">
+    <h1 style="background-color:white;"style="color:black;">
         Манай хоолны цэс
     </h1>
+
+            
 </html>
